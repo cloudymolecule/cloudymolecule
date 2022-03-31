@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Weather Boy](https://github.com/cloudymolecule/weather-boy)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [dariocarlino.com](dariocarlino.com)
 
